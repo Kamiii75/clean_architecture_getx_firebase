@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "853444818667",
+    "project_id": "test-apps-7f706",
+    "storage_bucket": "test-apps-7f706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853444818667:android:3f7169ce7762841a1930ae",
+        "android_client_info": {
+          "package_name": "com.darthive.clean_architecture_getx_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853444818667-i14t4ouku0i3h2fsglnlm8p68b8a4v0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiM1lDb0DXXDOjaMYPLVOhyyxVgSn9XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853444818667-i14t4ouku0i3h2fsglnlm8p68b8a4v0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853444818667-gl8jt5gg5iqdk88umdlmv4vul4a50hqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kamiworks.autoMasterFiverr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853444818667:android:2642c70fd1074ac11930ae",
+        "android_client_info": {
+          "package_name": "com.kamiworks.auto_master_fiverr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853444818667-i14t4ouku0i3h2fsglnlm8p68b8a4v0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiM1lDb0DXXDOjaMYPLVOhyyxVgSn9XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853444818667-i14t4ouku0i3h2fsglnlm8p68b8a4v0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853444818667-gl8jt5gg5iqdk88umdlmv4vul4a50hqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kamiworks.autoMasterFiverr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
